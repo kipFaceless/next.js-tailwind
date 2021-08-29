@@ -21,12 +21,14 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 ## Technologies used in this project
 - Next.js
 - Vanila Javascript
+- Typescript
 - React.js
 - Tailwind.css
 
 ##
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40"></img>
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"></img>
+ <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"></img>
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40">
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="200">
 
